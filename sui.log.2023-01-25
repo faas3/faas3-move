@@ -1,0 +1,24 @@
+2023-01-25T01:00:21.222581Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.22.0, server api version : 0.22.1
+2023-01-25T01:00:38.634729Z  INFO sui::client_commands: 0xbce9e0bf51e10c0ea8d4d10d05ccea5e7635afb6
+2023-01-25T01:07:08.458669Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.22.0, server api version : 0.22.1
+2023-01-25T01:07:18.544181Z  INFO sui::client_commands: 0xbce9e0bf51e10c0ea8d4d10d05ccea5e7635afb6
+2023-01-25T01:07:26.447845Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.22.0, server api version : 0.22.1
+2023-01-25T01:08:12.009375Z  INFO sui::client_commands: Showing 1 results.
+2023-01-25T01:08:12.009393Z  INFO sui::client_commands: 0x5d547ccd49f6f35fc0dd66fb76e032e8fbf570ff
+2023-01-25T01:09:26.013104Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.22.0, server api version : 0.22.1
+2023-01-25T01:15:12.994998Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.22.0, server api version : 0.22.1
+2023-01-25T01:15:14.097200Z  INFO sui::client_commands: [1m----- Certificate ----[0m
+2023-01-25T01:15:14.097226Z  INFO sui::client_commands: Transaction Hash: AUDsFvC1Ai7E4rqeLdNjZj37od9wDcq4D6to2jbTByWh
+2023-01-25T01:15:14.097231Z  INFO sui::client_commands: Transaction Signature: AA==@0yh/OHPqjQwsa15R/k7hewm89zZai2y4Vf88bFKzlQv20bL3dN2yD1IrF7b2qXk4z5ti+KzACIzTK9eYgTZtBA==@iDY2dtFvPBD3l88gWoS//QmCw77KilYPiYO8WyxJA2s=
+2023-01-25T01:15:14.097238Z  INFO sui::client_commands: Signed Authorities Bitmap: RoaringBitmap<[0, 2, 3]>
+2023-01-25T01:15:14.097242Z  INFO sui::client_commands: Transaction Kind : Publish
+2023-01-25T01:15:14.097244Z  INFO sui::client_commands: Sender: 0x5d547ccd49f6f35fc0dd66fb76e032e8fbf570ff
+2023-01-25T01:15:14.097248Z  INFO sui::client_commands: Gas Payment: Object ID: 0x77bc342d6b632438798ea0225139ccdbd18b69af, version: 0x2c9, digest: 0x5f76ef7ebec696b79f1747b0b1314a71f3b73bef32a6118350f14c877bd3348c
+2023-01-25T01:15:14.097250Z  INFO sui::client_commands: Gas Price: 1
+2023-01-25T01:15:14.097253Z  INFO sui::client_commands: Gas Budget: 3000
+2023-01-25T01:15:14.097256Z  INFO sui::client_commands: [1m----- Transaction Effects ----[0m
+2023-01-25T01:15:14.097262Z  INFO sui::client_commands: Status : Success
+2023-01-25T01:15:14.097264Z  INFO sui::client_commands: Created Objects:
+2023-01-25T01:15:14.097267Z  INFO sui::client_commands:   - ID: 0xe911f0d207c930d299d78011e4acba66d1f1eff7 , Owner: Immutable
+2023-01-25T01:15:14.097270Z  INFO sui::client_commands: Mutated Objects:
+2023-01-25T01:15:14.097274Z  INFO sui::client_commands:   - ID: 0x77bc342d6b632438798ea0225139ccdbd18b69af , Owner: Account Address ( 0x5d547ccd49f6f35fc0dd66fb76e032e8fbf570ff )
